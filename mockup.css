@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(43, 44, 45);
+}
+#campanello img {
+    height: 30px;
+    border-radius: 50%;
+}
+
+#campanello {
+    margin-left: 68em;
+}
+
